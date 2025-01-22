@@ -1,0 +1,1 @@
+This repository contains a simple Tcl script demonstrating an uncommon error related to the use of the `if` command.  The script contains a procedure with an incorrect `if` statement that fails to use curly braces around the return commands. This leads to a syntax error, or unexpected behavior. The solution shows the correct way to use `if` commands with multiple statements.
